@@ -1,5 +1,7 @@
-# 🤖 OM AI · JARVIS
+# ®️ OM AI · JARVIS
 ### India's First Student-Made On-Mobile AI Assistant
+#### DATE :31/03/2026
+#### Time : 12:30 Pm IST
 
 <div align="center">
 
