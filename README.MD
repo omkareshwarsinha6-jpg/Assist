@@ -3,14 +3,14 @@
 
 **India's first AI assistant built by a school student *using* generative AI (Claude).**
 
-- 100+ features: voice control, app launcher, calls, reminders, music player, coding IDE, games, file manager, and more.
-- Works offline with Pollinations AI (free) + supports Gemini/OpenAI/Grok APIs.
+- 90+ features: voice control, app launcher, calls, reminders, music player, coding IDE, games, file manager, and more.
+- Works offline/online with Pollinations AI (free)+ ollama + supports Gemini/OpenAI/Grok APIs.
 - Built for DroidScript — runs on any Android 9+ device.
 
-####⚠️ **Note:** This project is AI-generated (Claude 3.5) with human design and integration. Not production-ready; for educational purposes.
+####⚠️ **Note:** This project is AI-generated (Claude 3.5) with human design and integration.I habe made this open source but only for educational purpose and  please give small credit.
 #### DATE :31/03/2026
 #### Time : 12:30 Pm IST
-
+#### This is beta version I'm not responsible for crashes , its in developememt phase !
 <div align="center">
 
 ![Version](https://img.shields.io/badge/Version-2.0-blueviolet?style=for-the-badge)
