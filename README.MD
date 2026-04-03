@@ -19,7 +19,7 @@
 ![Author](https://img.shields.io/badge/Author-Omkareshwar%20Sinha-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
-**भारत का पहला Student-Made On-Mobile AI Assistant**  
+** India's first Student-Made On-Mobile AI Assistant made with claude**  
 *Made entirely on a smartphone, by a student, for everyone.*
 
 </div>
@@ -30,7 +30,7 @@
 
 **OM AI JARVIS** is a fully-featured AI assistant built as a single HTML file that runs inside **DroidScript** (an Android JavaScript IDE). It was created from scratch on a smartphone — no laptop, no server, no team. Just one student, one phone, and a vision to build India's most advanced on-device AI assistant.
 
-> *"India ka pehela on-mobile AI assistant — made by student Omkareshwar Sinha"*
+> *"India ka pehela on-mobile AI assistant — made by claude and student Omkareshwar Sinha"*
 
 ---
 
